@@ -7,7 +7,8 @@ hcimp is a simple tool to determine whether the password that the user has enter
 
 ## How it works
 
-The application uses a large password list ```<pending approval to use the dictionary file>``` in order find a match. 
+The application uses a large password list ```10_million_password_list_top_1000000.txt``` in order find a match. 
+Credit goes to Daniel Miessler for providing the password list.
 
 The user enters a password and it is searched through the entire dictionary list and the passwords that contains the user input are returned.
 
