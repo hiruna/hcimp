@@ -17,7 +17,7 @@ For an example, if the user enters "admin", passwords containing "admin" are ret
 
 ## V1.0
 
-* build completeion: 24/11/2015
+* build completion: 24/11/2015
 * Search for a password
 * Returns the passwords that matches the user input
 * Inform user if password was not matched
